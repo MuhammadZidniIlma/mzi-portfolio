@@ -104,13 +104,11 @@ export const HeroParallax = ({
 export const Header = () => {
   return (
     <div className="max-w-7xl relative mx-auto py-20 md:py-40 px-4 w-full  left-0 top-0">
-      <h1 className="text-2xl md:text-7xl font-bold dark:text-white">
-        The Ultimate <br /> development studio
+      <h1 className="text-2xl md:text-7xl font-bold dark:text-white font-sans">
+        Hello! I’m <br /> Muhammad Zidni Ilma
       </h1>
       <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
-        We build beautiful products with the latest technologies and frameworks.
-        We are a team of passionate developers and designers that love to build
-        amazing products.
+          As a Full Stack Developer, I combine frontend and backend expertise to build robust, responsive web applications. My focus is on creating seamless user experiences and efficient, scalable solutions. Explore my portfolio to see how my technical skills and creativity bring your ideas to life.
       </p>
     </div>
   );
